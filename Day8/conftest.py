@@ -4,7 +4,7 @@ import json
 from faker import Faker
 
 BASE_URL = "https://gorest.co.in/public/v2/users"
-TOKEN = "63fe5edb6fcda1d221073e81c2579f48f1304040c37e37eb267c8a028ef56e85"
+TOKEN = ""
 HEADERS = {
     "Authorization": f"Bearer {TOKEN}",
     "Content-Type": "application/json"
