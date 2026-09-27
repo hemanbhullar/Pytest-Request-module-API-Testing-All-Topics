@@ -6,8 +6,8 @@ access_token = None #Global variable
 
 def generate_token():
     global access_token
-    client_id = "d6fb60261a5c40f78ce96339033d6cbd"
-    client_secret = "d9171946e9104f0da7784249d539cd97"
+    client_id = ""
+    client_secret = ""
     token_url = "https://accounts.spotify.com/api/token"
     headers = {"Content-Type": "application/x-www-form-urlencoded"}
     form_data = {
