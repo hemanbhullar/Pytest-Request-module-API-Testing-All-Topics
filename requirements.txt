@@ -1,0 +1,12 @@
+requests
+jsonpath-ng
+lxml
+jsonschema
+google-auth
+faker
+pytest
+pytest-order
+pytest-dependency
+xmltodict
+xmlschema
+openpyxl

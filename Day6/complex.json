@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "data": {
+    "UserDetails": {
+      "id": 12345,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phoneNumbers": [
+        {
+          "type": "home",
+          "number": "123-456-7890"
+        },
+        {
+          "type": "work",
+          "number": "987-654-3210"
+        }
+      ],
+      "address": {
+        "street": "123 Main St",
+        "city": "SpringField",
+        "state": "IL",
+        "postalCode": "62704",
+        "geo": {
+          "latitude": 39.7817,
+          "longitude": -89.6501
+        }
+      },
+      "preferences": {
+        "notification": true,
+        "theme": "dark",
+        "languages": ["English", "Spanish", "French"]
+      }
+    },
+    "recentOrders": [
+      {
+        "orderId": 101,
+        "items": [
+          {
+            "item_id": 1
+          },
+          {
+            "item_id": 2,
+            "name": "Mouse",
+            "quantity": 1,
+            "price": 25.50
+          }
+        ],
+        "totalAmount": 1226.49
+      },
+      {
+        "orderId": 102
+      }
+    ]
+  }
+}

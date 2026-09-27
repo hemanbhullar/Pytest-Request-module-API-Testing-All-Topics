@@ -1,0 +1,105 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John",
+      "location": "india",
+      "phone": "1234567890",
+      "courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Kim",
+      "location": "USA",
+      "phone": "9642341452",
+      "courses": [
+        "Python",
+        "Appium"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Smith",
+      "location": "Canada",
+      "phone": "1341341452",
+      "courses": [
+        "C#",
+        "Rest API"
+      ]
+    },
+    {
+      "name": "Scott",
+      "location": "France",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "id": "FMB-2c641fs"
+    },
+    {
+      "name": "Scott",
+      "location": "France",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "id": "rLnxxjMbyqE"
+    },
+    {
+      "name": "Scott",
+      "location": "France",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "id": "NpcbGcIh1pM"
+    },
+    {
+      "name": "Goerge",
+      "location": "USA",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "id": "tIT6bn1pNcs"
+    },
+    {
+      "name": "Delep",
+      "location": "USA",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "id": "5QolNNa-Hu0"
+    },
+    {
+      "name": "Delep",
+      "location": "USA",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "id": "dE7XZTQ1SzA"
+    },
+    {
+      "name": "Delep",
+      "location": "USA",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "id": "-Ze2-6de8sI"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
